@@ -6,7 +6,7 @@ This folder contains the production-ready static site for your Developer Card.
 - `index.html` — the profile page
 - `style.css` — light/dark theme styles
 - `script.js` — theme persistence & entrance animation
-- `pfp.jpeg` — your profile photo
+- `pfp.jpeg` — profile photo
 - `netlify.toml` — Netlify build config
 - `.gitignore` — files to exclude from GitHub
 
