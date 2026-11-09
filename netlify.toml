@@ -1,0 +1,9 @@
+# Netlify configuration for a static HTML/CSS/JS site
+
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
