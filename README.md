@@ -1,6 +1,8 @@
 # Deploy directory
 
-This folder contains the production-ready static site for your Developer Card.
+This folder contains the production-ready static site for my Developer Card.
+
+Live link: https://developer-card-pv.netlify.app
 
 ## Files
 - `index.html` — the profile page
